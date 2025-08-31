@@ -1,7 +1,7 @@
-# **CardioCareML: Heart Disease Prediction Web App**
+# **Heart Disease Prediction Web App**
 
 ## **Project Overview**
-CardioCareML is a machine learning-based web application designed to predict the likelihood of heart disease in individuals based on various health parameters. The application utilizes a Random Forest model, trained on a dataset of heart disease patient information, to provide accurate predictions. The backend is built using Flask, while the frontend is developed using HTML, CSS, and JavaScript.
+Heart Disease Predictor is a machine learning-based web application designed to predict the likelihood of heart disease in individuals based on various health parameters. The application utilizes a Random Forest model, trained on a dataset of heart disease patient information, to provide accurate predictions. The backend is built using Flask, while the frontend is developed using HTML, CSS, and JavaScript.
 
 ## **Technologies Used**
 
